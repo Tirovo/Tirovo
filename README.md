@@ -82,5 +82,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:florianpasco@protonmail.com)  
 -->
 ---
-
-Feel free to connect with me or explore my portfolio for more! 😊
