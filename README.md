@@ -1,63 +1,63 @@
-# 👋 Hello !
+# 👋 Hello!
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-Ingénieur en intelligence artificielle, actuellement en formation à l’**ENIB** (École Nationale d'Ingénieurs de Brest), je suis passionné par la **synthèse vocale**, le **traitement du signal**, la **vision par ordinateur** et les **systèmes intelligents offline**.
+I’m an Artificial Intelligence engineering student at **ENIB** (École Nationale d'Ingénieurs de Brest), passionate about **speech synthesis**, **signal processing**, **computer vision**, and building **offline intelligent systems**.
 
-Sur mon temps libre, je conçois et développe des **assistants vocaux locaux**, des applications de **machine learning pour la voix**, et des projets innovants mêlant **cybersécurité**, **vision par ordinateur** et **détection de contenus générés par IA** (comme les **deepfakes audio**).
+In my free time, I design and develop **fully local voice assistants**, **machine learning applications for voice**, and innovative projects at the intersection of **cybersecurity**, **computer vision**, and **AI-generated content detection** (like **deepfake audio**).
 
-Je me spécialise dans la création de **solutions vocales locales**, et j’explore des modèles IA open-source comme **LLM**, **GPT4All**, et **Nous Hermes**. J’aime également travailler avec **FastAPI**, **Streamlit** et **OpenCV** pour créer des **interfaces interactives** et des systèmes d'IA **temps réel**.
+I specialize in creating **privacy-focused local voice solutions** and explore open-source LLMs like **GPT4All**, **Nous Hermes**, and **Mistral**. I also enjoy working with tools like **FastAPI**, **Streamlit**, and **OpenCV** to build **real-time AI-powered interfaces**.
 
-### 🌍 Centres d'intérêt
+### 🌍 Interests
 
-- 💻 **IA et Machine Learning** : Modèles vocaux, temps réel, IA locale  
-- 🎤 **Synthèse vocale** : Assistants vocaux personnalisés  
-- 👁️ **Vision par ordinateur** : Détection de fatigue, suivi du regard  
-- 🛡️ **Cybersécurité** : Détection de deepfakes audio
-
----
-
-## 🛠️ Compétences
-
-### 🧠 Intelligence Artificielle
-
-- **Synthèse vocale** : Tacotron2, VITS, Coqui TTS, SoX  
-- **Traitement de la parole** : Détection d’émotions, pitch/tempo  
-- **Modèles LLM** : GPT4All, Nous Hermes, Mistral  
-- **Vision par ordinateur** : OpenCV, Dlib, Mediapipe  
-- **Deep Learning** : PyTorch, TensorFlow, CNN, RNN  
-- **Frameworks IA** : FastAPI, Streamlit, Gradio, Hugging Face  
-
-### 💻 Développement & DevOps
-
-- **Langages** : Python, C, Java, SQL, Bash  
-- **Web/API** : Django, React, Next.js, HTML5, CSS, PostgreSQL  
-- **Outils** : Git, GitHub, GitLab, Docker, Jupyter
-
-### 🔐 Cybersécurité
-
-- Détection de deepfakes audio  
-- IA locale sans cloud  
-- Sécurisation des interactions vocales
+- 💻 **AI & Machine Learning**: Real-time models, voice AI, local-first systems  
+- 🎤 **Speech Synthesis**: Custom voice assistants, voice-to-voice pipelines  
+- 👁️ **Computer Vision**: Fatigue detection, facial analysis, eye tracking  
+- 🛡️ **Cybersecurity**: Deepfake detection, audio anti-spoofing
 
 ---
 
-## 📚 Projets phares
+## 🛠️ Skills
+
+### 🧠 Artificial Intelligence
+
+- **Speech Synthesis**: Tacotron2, VITS, Coqui TTS, SoX  
+- **Speech Processing**: Emotion detection, pitch/tempo modulation  
+- **LLMs**: GPT4All, Nous Hermes, Mistral  
+- **Computer Vision**: OpenCV, Dlib, Mediapipe  
+- **Deep Learning**: PyTorch, TensorFlow, CNN, RNN  
+- **AI Frameworks**: FastAPI, Streamlit, Gradio, Hugging Face
+
+### 💻 Development & DevOps
+
+- **Languages**: Python, C, Java, SQL, Bash  
+- **Web/API**: Django, React, Next.js, HTML5, CSS, PostgreSQL  
+- **Tools**: Git, GitHub, GitLab, Docker, Jupyter
+
+### 🔐 Cybersecurity
+
+- Deepfake audio detection  
+- Local-first AI deployments  
+- Securing voice interaction systems
+
+---
+
+## 📚 Highlighted Projects
 
 - **Numa**  
-  Assistant vocal intelligent 100 % local, combinant reconnaissance vocale, LLM open-source et synthèse vocale expressive sans cloud.
+  A fully local intelligent voice assistant combining speech recognition, open-source LLM, and expressive speech synthesis — all without cloud dependencies.
 
 - **FatiguEye**  
-  Application de détection de fatigue via webcam, basée sur l’analyse des clignements et micro-somnolences (computer vision + suivi du EAR).
+  A fatigue detection app using computer vision to track eye blinks and micro-sleep indicators via webcam (EAR-based analysis).
 
 - **EmotionAI-Voice**  
-  Outil de détection des émotions vocales (stress, calme, colère...) à partir d’un enregistrement audio, avec deep learning et interface web.
+  A web-based tool that detects emotions (stress, calm, anger...) from voice recordings using deep learning and a user-friendly interface.
 
 ---
 
-## 🔗 Liens
+## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tirovo)  
-[![Site personnel](https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.github.io)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tristanlond%C3%A9)
 
