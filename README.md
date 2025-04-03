@@ -37,8 +37,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 ### 🔐 Cybersecurity
 
 - Deepfake audio detection  
-- Local-first AI deployments  
-- Securing voice interaction systems
+- Local-first AI deployments
 
 ---
 
