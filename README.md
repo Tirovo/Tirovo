@@ -44,13 +44,13 @@ Je me spécialise dans la création de **solutions vocales locales**, et j’exp
 
 ## 📚 Projets phares
 
-- 🔹 **Numa**  
+- **Numa**  
   Assistant vocal intelligent 100 % local, combinant reconnaissance vocale, LLM open-source et synthèse vocale expressive sans cloud.
 
-- 🔹 **FatiguEye**  
+- **FatiguEye**  
   Application de détection de fatigue via webcam, basée sur l’analyse des clignements et micro-somnolences (computer vision + suivi du EAR).
 
-- 🔹 **EmotionAI-Voice**  
+- **EmotionAI-Voice**  
   Outil de détection des émotions vocales (stress, calme, colère...) à partir d’un enregistrement audio, avec deep learning et interface web.
 
 ---
@@ -58,4 +58,4 @@ Je me spécialise dans la création de **solutions vocales locales**, et j’exp
 ## 🔗 Liens
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tirovo)  
-[![Site personnel](https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.dev) *(en développement)*  
+[![Site personnel]([https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.dev](https://tirovo.github.io/)) *(en développement)*  
