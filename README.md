@@ -51,7 +51,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
   A fatigue detection app using computer vision to track eye blinks and micro-sleep indicators via webcam (EAR-based analysis).
 
 - **EmotionAI-Voice**  
-  A web-based tool that detects emotions (stress, calm, anger...) from voice recordings using deep learning and a user-friendly interface.
+  A tool that detects emotions (stress, calm, anger...) from voice recordings using deep learning and a user-friendly interface.
 
 ---
 
