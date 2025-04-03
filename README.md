@@ -59,4 +59,5 @@ Je me spécialise dans la création de **solutions vocales locales**, et j’exp
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tirovo)  
 [![Site personnel](https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.github.io/)
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tristanlond%C3%A9/)
+
