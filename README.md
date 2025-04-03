@@ -58,4 +58,4 @@ Je me spécialise dans la création de **solutions vocales locales**, et j’exp
 ## 🔗 Liens
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tirovo)  
-[![Site personnel]([https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.dev](https://tirovo.github.io/)) *(en développement)*  
+[![Site personnel](https://tirovo.dev](https://tirovo.github.io/)) *(en développement)*  
