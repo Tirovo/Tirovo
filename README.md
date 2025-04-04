@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-## 🚀 About Me
+# 🚀 About Me
 
 I’m an Artificial Intelligence engineering student at **ENIB** (École Nationale d'Ingénieurs de Brest), passionate about **speech synthesis**, **signal processing**, **computer vision**, and building **offline intelligent systems**.
 
@@ -17,7 +17,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ### 🧠 Artificial Intelligence
 
@@ -45,7 +45,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 
 ---
 
-## 📚 Highlighted Projects
+# 📚 Highlighted Projects
 
 - **Numa**  
   A fully local intelligent voice assistant combining speech recognition, open-source LLM, and expressive speech synthesis — all without cloud dependencies.
@@ -58,7 +58,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 
 ---
 
-## 🔗 Links
+# 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tirovo)  
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.github.io) (under construction)                                  
