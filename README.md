@@ -31,8 +31,8 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 ### 💻 Development & DevOps
 
 - **Languages**: Python, C, Java, SQL, Bash, 
-- **Web/API**: Django, React, Next.js, HTML5, CSS, PostgreSQL  
-- **Tools**: Git, GitHub, GitLab, Docker, Jupyter
+- **Web/API**: Django, React, HTML5, CSS, PostgreSQL  
+- **Tools**: Git, GitHub, GitLab, Jupyter
 
 ### 🔐 Cybersecurity
 
