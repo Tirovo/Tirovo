@@ -30,7 +30,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 
 ### 💻 Development & DevOps
 
-- **Languages**: Python, C, Java, SQL, Bash  
+- **Languages**: Python, C, Java, SQL, Bash, 
 - **Web/API**: Django, React, Next.js, HTML5, CSS, PostgreSQL  
 - **Tools**: Git, GitHub, GitLab, Docker, Jupyter
 
@@ -38,6 +38,10 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 
 - Deepfake audio detection  
 - Local-first AI deployments
+
+### 🔐 Languages
+- French (Native)
+- English (Fluent)
 
 ---
 
