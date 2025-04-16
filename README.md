@@ -17,7 +17,7 @@ I specialize in creating **privacy-focused local voice solutions** and explore o
 
 ---
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 ### 🧠 Artificial Intelligence
 
