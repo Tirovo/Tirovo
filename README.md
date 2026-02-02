@@ -1,59 +1,61 @@
 # 👋 Hello!
 
-# 🚀 About Me
+## 🚀 About Me
 
-I’m an Artificial Intelligence engineering student at **ENIB** (École Nationale d'Ingénieurs de Brest), passionate about **signal processing**, **computer vision**, and building **intelligent systems**.
+I’m an **Engineering student at ENIB (École Nationale d'Ingénieurs de Brest)** with a strong focus on **Data Analysis, Business Analytics, and Data-Driven Decision Making**.
 
-In my free time, I design and develop projects in various fields that interest me (AI, Data Science, software Engineering,...)
+My profile sits at the intersection of **data, technology, and business**, with a particular interest in transforming raw data into **actionable insights** that support **strategic and operational decisions**.
 
-For example I have created  **a fatigue detector (FatiguEye)** and **AI powered application that recognizes emotions in the human speech (EmotionAI-Voice)**. I am currently developping **an AI local assistant (Numa)** and **a reverse engineering AI tool for Printed Circuit Boards (PCB) (BoardMapper) with Florian Pasco**.
+Through academic and personal projects, I have developed both a strong interest and solid experience in **data analysis, KPI design, exploratory analysis, automation, and data visualization**, with skills in **machine learning and software engineering** thanks to my background.
 
-On my GitHub you will find various projects using various technologies, probably mostly **Data Science and Machine Learning** but not only , as I am curious by nature and **always looking forward to learning new technologies and acquiring new skills**.
+I enjoy working on **end-to-end projects**, from data collection and processing to **analysis, storytelling, and decision support**.
 
+---
 
-### 🌍 Interests
+## 🌍 Areas of Interest
 
-- 💻 **AI & Machine Learning**: Real-time models, voice AI, local-first systems  
-- 🎤 **Speech Synthesis**: Custom voice assistants, voice-to-voice pipelines  
-- 👁️ **Computer Vision**: Fatigue detection, facial analysis, eye tracking  
-- 🛡️ **Cybersecurity**: Deepfake detection, audio anti-spoofing
-- And a lot more !
+- 📊 **Data Analysis & Business Intelligence**  
+  KPIs, dashboards, reporting, data storytelling  
+
+- 🧠 **Data-Driven Decision Making**  
+  Translating business needs into analytical solutions  
+
+- 🔍 **Exploratory & Statistical Analysis**  
+  Pattern detection, trend analysis, insights generation  
+
+- 🤖 **Applied Machine Learning**  
+  Predictive models with a focus on interpretability and business value  
+
+- 🏗️ **Data Engineering Basics**  
+  Data pipelines, structured datasets, reproducible analysis  
 
 ---
 
 ## 🛠️ Skills
 
+### 💻 Data, Development & Tools
 
-### 💻 Development & DevOps
+- **Programming & Query Languages**: Python, SQL, C, Java, Bash  
+- **Data & ML Libraries**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn  
+- **Data Visualization & BI**: Power BI, dashboards, automated reporting  
+- **Frameworks**: Django, Spring  
+- **Databases**: SQLite, MySQL, PostgreSQL  
+- **Tools & Workflow**: Git, GitHub, GitLab, Jupyter, Postman, Trello  
 
-- **Programming languages**: Python, SQL, C, C++, Rust, Java, Bash, 
-- **Libraries and Frameworks**: Pytorch, OpenCV, Pandas, Numpy, Matplotlib, Seaborn, MLFlow, React, Django, Spring
-- **Databases**: SQLite, MySQL, PostgreSQL
-- **Tools**: Git, GitHub, GitLab, Jupyter, Postman, Trello, Taiga
-
+---
 
 ### 🔐 Languages
-- French (Native)
-- English (Fluent)
+
+- French — Native  
+- English — Fluent  
 
 ---
 
-# 📚 Highlighted Projects
+## 📚 Highlighted Projects
 
-- **Numa**  
-  A fully local intelligent voice assistant combining speech recognition, open-source LLM, and expressive speech synthesis — all without cloud dependencies.
+### **Scent4All**
+A **data-driven recommendation project** leveraging structured datasets and similarity-based analysis to suggest perfumes based on notes, accords, and user preferences, with a strong focus on **feature engineering, exploratory analysis, and explainability**.
 
-- **FatiguEye**  
-  A fatigue detection app using computer vision to track eye blinks and micro-sleep indicators via webcam (EAR-based analysis).
-
-- **EmotionAI-Voice**  
-  A tool that detects emotions (stress, calm, anger...) from voice recordings using deep learning and a user-friendly interface.
-
----
-
-# 🔗 Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tirovo)  
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirovo.github.io) (under construction)                                  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tristanlond%C3%A9)
+### **Healthcare Expenditure Analysis (France)**
+An in-depth **data analysis and business intelligence project** focused on **French healthcare expenditures**, aiming to understand spending structures, key drivers, and trends, and to provide **actionable insights for decision-making** through dashboards and analytical reporting.
 
